@@ -1,0 +1,55 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+### Java Build-Ausgaben (IDE, Maven, Gradle) ###
+out/
+**/out/
+build/
+**/build/
+target/
+**/target/
+.gradle/
+**/.gradle/
+
+### Temporäre Dateien und Logs ###
+*.log
+*.tmp
+*.swp
+*.bak
+*~
+
+### Betriebssystem-Dateien ###
+.DS_Store
+Thumbs.db
+
+### Java-Binärdateien ###
+*.class
+*.jar
+*.war
+
+### Archivdateien ###
+*.zip
+*.tar.gz
+
+### C# / .NET / Visual Studio ###
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.user
+*.csproj.user
+*.pdb
+*.exe
+*.dll
+*.cache
+*.db
+*.db-shm
+*.db-wal
+bin/
+obj/
