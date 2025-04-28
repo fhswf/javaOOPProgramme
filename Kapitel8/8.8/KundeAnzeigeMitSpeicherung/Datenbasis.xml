@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.2" class="java.beans.XMLDecoder">
+ <object class="de.fhswf.arinir.Datenbasis" id="Datenbasis0">
+  <void property="meineAnzeigen">
+   <void method="add">
+    <object class="de.fhswf.arinir.Anzeige" id="Anzeige0">
+     <void property="anzeigennr">
+      <int>10</int>
+     </void>
+     <void property="linkKunde">
+      <object class="de.fhswf.arinir.Kunde" id="Kunde0">
+       <void property="anzeigen">
+        <void method="add">
+         <object idref="Anzeige0"/>
+        </void>
+       </void>
+       <void property="blz">
+        <int>4005000</int>
+       </void>
+       <void property="kontonr">
+        <int>9876</int>
+       </void>
+       <void property="kundennr">
+        <int>1</int>
+       </void>
+       <void property="name">
+        <string>Musterfrau</string>
+       </void>
+       <void property="telefon">
+        <string>0234/76543</string>
+       </void>
+      </object>
+     </void>
+     <void property="titel">
+      <string>Gartentisch</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="meineKunden">
+   <void method="add">
+    <object idref="Kunde0"/>
+   </void>
+  </void>
+ </object>
+</java>

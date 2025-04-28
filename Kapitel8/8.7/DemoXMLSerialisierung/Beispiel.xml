@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.2" class="java.beans.XMLDecoder">
+ <object class="de.fhswf.arinir.Person">
+  <void property="alter">
+   <int>38</int>
+  </void>
+  <void property="name">
+   <string>Mustermann</string>
+  </void>
+  <void property="vorname">
+   <string>Harald</string>
+  </void>
+ </object>
+</java>
