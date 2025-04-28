@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"de.fhswf.arinir","c":"Wetter","l":"getStation()"},{"p":"de.fhswf.arinir","c":"Wetter","l":"getTemperatur()"},{"p":"de.fhswf.arinir","c":"Wetter","l":"setTemperatur(int)"},{"p":"de.fhswf.arinir","c":"Wetter","l":"Wetter(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();

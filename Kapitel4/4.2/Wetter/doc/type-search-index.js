@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"de.fhswf.arinir","l":"Wetter"}];updateSearchResults();
